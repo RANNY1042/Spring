@@ -1,0 +1,6 @@
+@ RestController
+@ Controller
+@ Component
+@ Service
+@ Repository
+@ Configuration - @Bean
